@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-os.environ["LANGCHAIN_API_KEY"] = "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"
+os.environ["LANGCHAIN_API_KEY"] = "include your api key"
 os.environ["LANGCHAIN_ENDPOINT"] = "https://api.smith.langchain.com"
 
 os.environ["LANGCHAIN_TRACING_V2"]="true"
